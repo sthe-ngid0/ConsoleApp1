@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("let the rain train rain all year ");
+            Console.WriteLine("let the rain train rain year ");
         }
     }
 }
